@@ -18,7 +18,7 @@ Sebelum menjalankan program ini, diperlukan **Python** dengan rekomendasi versi 
 ## Persiapan & Instalasi
 
 **1. Verifikasi *File* Program**
-Pastikan *file* kode program (`dashboard.py`), *file* dataset (`main_data.csv`), serta *file requirements* (`reqirements.txt`) berada di **direktori/*folder* yang sama**.
+Pastikan *file* kode program (`dashboard.py`), *file* dataset (`main_data.csv`), serta *file requirements* (`requirements.txt`) berada di **direktori/*folder* yang sama**.
 
 **2. Buat *Virtual Environment***
 Buat *Virtual Environment* pada Python dengan **menjalankan perintah berikut** pada Terminal atau Command Prompt:
